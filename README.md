@@ -11,6 +11,6 @@ HTML5 · CSS3 · JavaScript · React.js · Git
 - FigmaProject
 
 ## Contact
-- LinkedIn: (linkedin.com/in/turqut-bagirli-889b12256)
+- LinkedIn: ((https://www.linkedin.com/in/turqut-bagirli-889b12256)
 - Email: (turqut.bagirli@gmail.com)
 
